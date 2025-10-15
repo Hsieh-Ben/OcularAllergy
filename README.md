@@ -1,18 +1,7 @@
 # OcularAllergy
-AAAAI references:
-1.	Aghayan-Ugurluoglu R, Ball T, Vrtala S, Schweiger C, Kraft D, Valenta R. Dissociation of allergen-specific IgE and IgA responses in sera and tears of pollen-allergic patients: a study performed with purified recombinant pollen allergens. J Allergy Clin Immunol. 2000;105(4):803-13. 
-2.	Baryishak YR, Zavaro A, Monselise M, Samra Z, Sompolinsky D. Vernal keratoconjunctivitis in an Israeli group of patients and its treatment with sodium cromoglycate. Br J Ophthalmol. Feb 1982;66(2):118-22. doi:10.1136/bjo.66.2.118
-3.	Inada N, Shoji J, Kato H, Kiely S, Mulyanto, Sawa M. Clinical evaluation of total IgE in tears of patients with allergic conjunctivitis disease using a novel application of the immunochromatography method. Allergol Int. Dec 2009;58(4):585-9. doi:058040585 [pii] 10.2332/allergolint.09-OA-0101
-4.	Inada N, Shoji J, Kato H, Kiely S, Mulyanto, Sawa M. Clinical evaluation of total IgE in tears of patients with allergic conjunctivitis disease using a novel application of the immunochromatography method. Allergol Int. Dec 2009;58(4):585-9. doi:10.2332/allergolint.09-OA-0101
-5.	Kari O, Salo OP, Bjorksten F, Backman A. Allergic conjunctivitis, total and specific IgE in the tear fluid. Acta Ophthalmol (Copenh). Feb 1985;63(1):97-9. doi:10.1111/j.1755-3768.1985.tb05224.x
-6.	Mimura FT, Usui T, Mori M, et al. Rapid immunochromatography of total tear immunoglobulin E in allergic conjunctivitis with Allerwatch. J Investig Allergol Clin Immunol. 2010;20(7):627-8. 
-7.	Mimura T, Usui T, Mori M, et al. Immunochromatographic assay for measurement of total IgE in tears, nasal mucus, and saliva of patients with allergic rhinoconjunctivitis. J Asthma. Dec 2010;47(10):1153-60. doi:10.3109/02770903.2010.527025
-8.	Mimura T, Usui T, Mori M, Funatsu H, Noma H, Amano S. Rapid immunochromatographic measurement of specific tear immunoglobulin E in moderate to severe cases of allergic conjunctivitis with Immfast Check J1 in the spring. Cornea. May 2011;30(5):524-7. doi:10.1097/ICO.0b013e3181f23932
-9.	Mimura T, Usui T, Mori M, Funatsu H, Noma H, Amano S. Specific tear IgE in patients with moderate-to-severe autumnal allergic conjunctivitis. Int Arch Allergy Immunol. 2011;156(4):381-6. doi:10.1159/000323908
-10.	Mimura T, Usui T, Mori M, et al. Relationship between total tear and serum IgE in allergic conjunctivitis. Int Arch Allergy Immunol. 2011;154(4):349-52. doi:10.1159/000321828
-11.	Mimura T, Usui T, Mori M, et al. Relation between total tear IgE and specific serum IgE in seasonal allergic conjunctivitis. Cornea. Jul 2011;30(7):790-5. doi:10.1097/ICO.0b013e3182000feb
-12.	Mimura T, Usui T, Yamagami S, Miyai T, Amano S. Relation between total tear IgE and severity of acute seasonal allergic conjunctivitis. Curr Eye Res. Oct 2012;37(10):864-70. doi:10.3109/02713683.2012.689069
-13.	Mimura T, Usui T, Yamagami S, Miyai T, Amano S. Relationship between total tear IgE and specific serum IgE in autumnal allergic conjunctivitis. Cornea. Jan 2013;32(1):14-9. doi:10.1097/ICO.0b013e318253214b
-14.	Samra Z, Zavaro A, Barishak Y, Sompolinsky D. Vernal keratoconjunctivitis: the significance of immunoglobulin E levels in tears and serum. Int Arch Allergy Appl Immunol. 1984;74(2):158-64. doi:10.1159/000233537
-15.	Sompolinsky D, Samra Z, Zavaro A, Barishak Y. Allergen-specific immunoglobulin E antibodies in tears and serum of vernal conjunctivitis patients. Int Arch Allergy Appl Immunol. 1984;75(4):317-21. doi:10.1159/000233640
-16.	Tuft SJ, Dart JK, Kemeny M. Limbal vernal keratoconjunctivitis: clinical characteristics and immunoglobulin E expression compared with palpebral vernal. Eye (Lond). 1989;3 ( Pt 4):420-7. doi:10.1038/eye.1989.63
+ACAAI 2025 references:
+1. Butrus SI, Ochsner KI, Abelson MB, Schwartz LB. The level of tryptase in human tears: an indicator of activation of conjunctival mast cells. Ophthalmology. 1990;97(12):1678-1683. doi:10.1016/S0161-6420(90)32362-X
+2. Ebihara N, Funaki T, Takai S, Miyazaki M, Fujiki K, Murakami A. Tear chymase in vernal keratoconjunctivitis. Curr Eye Res. 2004;28(6):417-420. doi:10.1080/02713680490503750
+3. Jedrzejczak-Czechowicz M, Lewandowska-Polak A, Jarzebska M, Kowalski ML. Mast cell and eosinophil activation during early phase of grass pollen-induced ocular allergic reaction. Allergy Asthma Proc. 2011;32(1):43-48. doi:10.2500/aap.2011.32.3402
+4. Magrini L, Bonini S, Centofanti M, Schiavone M, Bonini S. Tear tryptase levels and allergic conjunctivitis. Allergy. 1996;51(8):577-581. doi:10.1111/j.1398-9995.1996.tb04671.x
+5. Tabbara KF. Tear tryptase in vernal keratoconjunctivitis. Arch Ophthalmol. 2001;119(3):338-342. doi:10.1001/archopht.119.3.338
